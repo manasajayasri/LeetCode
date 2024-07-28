@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/manasajayasri/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/manasajayasri/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Linked List
 |  |
@@ -41,4 +42,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manasajayasri/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/manasajayasri/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manasajayasri/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
