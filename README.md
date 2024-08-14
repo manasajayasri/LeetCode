@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2048-build-array-from-permutation](https://github.com/manasajayasri/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manasajayasri/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasajayasri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
