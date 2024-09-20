@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manasajayasri/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/manasajayasri/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/manasajayasri/LeetCode/tree/master/0013-roman-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manasajayasri/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
