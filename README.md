@@ -37,6 +37,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manasajayasri/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/manasajayasri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manasajayasri/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/manasajayasri/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/manasajayasri/LeetCode/tree/master/0058-length-of-last-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/manasajayasri/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manasajayasri/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manasajayasri/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
