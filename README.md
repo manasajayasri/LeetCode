@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/manasajayasri/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2048-build-array-from-permutation](https://github.com/manasajayasri/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manasajayasri/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manasajayasri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/manasajayasri/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
