@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manasajayasri/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/manasajayasri/LeetCode/tree/master/0724-find-pivot-index) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/manasajayasri/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manasajayasri/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/manasajayasri/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/manasajayasri/LeetCode/tree/master/0724-find-pivot-index) |
+## Sorting
+|  |
+| ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/manasajayasri/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
