@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manasajayasri/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/manasajayasri/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manasajayasri/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -36,6 +37,7 @@
 | [0007-reverse-integer](https://github.com/manasajayasri/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/manasajayasri/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manasajayasri/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manasajayasri/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manasajayasri/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
