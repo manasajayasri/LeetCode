@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manasajayasri/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/manasajayasri/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manasajayasri/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -20,6 +21,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/manasajayasri/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manasajayasri/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -104,6 +106,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manasajayasri/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Tree
 |  |
