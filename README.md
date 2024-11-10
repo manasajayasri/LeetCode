@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/manasajayasri/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manasajayasri/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -21,6 +22,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manasajayasri/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/manasajayasri/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manasajayasri/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -107,6 +109,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manasajayasri/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manasajayasri/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Tree
