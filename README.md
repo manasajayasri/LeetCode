@@ -8,6 +8,7 @@
 | [0054-spiral-matrix](https://github.com/manasajayasri/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manasajayasri/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/manasajayasri/LeetCode/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/manasajayasri/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manasajayasri/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -143,5 +144,6 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/manasajayasri/LeetCode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/manasajayasri/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
