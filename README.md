@@ -43,6 +43,7 @@
 | [0013-roman-to-integer](https://github.com/manasajayasri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/manasajayasri/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manasajayasri/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manasajayasri/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manasajayasri/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/manasajayasri/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
@@ -141,4 +143,5 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/manasajayasri/LeetCode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
