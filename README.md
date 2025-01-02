@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/manasajayasri/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/manasajayasri/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/manasajayasri/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manasajayasri/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -47,6 +48,7 @@
 | [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manasajayasri/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/manasajayasri/LeetCode/tree/master/0258-add-digits) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manasajayasri/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manasajayasri/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manasajayasri/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/manasajayasri/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
