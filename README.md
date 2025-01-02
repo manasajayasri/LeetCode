@@ -29,6 +29,7 @@
 | [2048-build-array-from-permutation](https://github.com/manasajayasri/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manasajayasri/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3447-clear-digits](https://github.com/manasajayasri/LeetCode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manasajayasri/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/manasajayasri/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3447-clear-digits](https://github.com/manasajayasri/LeetCode/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manasajayasri/LeetCode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/manasajayasri/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
