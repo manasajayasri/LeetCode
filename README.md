@@ -20,6 +20,7 @@
 | [2058-concatenation-of-array](https://github.com/manasajayasri/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/manasajayasri/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/manasajayasri/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2727-number-of-senior-citizens](https://github.com/manasajayasri/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manasajayasri/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
@@ -160,6 +161,7 @@
 | [0029-divide-two-integers](https://github.com/manasajayasri/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/manasajayasri/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/manasajayasri/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Counting
 |  |
 | ------- |
