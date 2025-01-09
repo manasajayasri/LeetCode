@@ -16,6 +16,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manasajayasri/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/manasajayasri/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1839-decode-xored-array](https://github.com/manasajayasri/LeetCode/tree/master/1839-decode-xored-array) |
 | [2048-build-array-from-permutation](https://github.com/manasajayasri/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manasajayasri/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -161,6 +162,7 @@
 | [0029-divide-two-integers](https://github.com/manasajayasri/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/manasajayasri/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
+| [1839-decode-xored-array](https://github.com/manasajayasri/LeetCode/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/manasajayasri/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Counting
 |  |
