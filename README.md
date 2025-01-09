@@ -19,6 +19,7 @@
 | [2048-build-array-from-permutation](https://github.com/manasajayasri/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manasajayasri/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/manasajayasri/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2727-number-of-senior-citizens](https://github.com/manasajayasri/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manasajayasri/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
@@ -70,6 +71,7 @@
 | [1894-merge-strings-alternately](https://github.com/manasajayasri/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manasajayasri/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/manasajayasri/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2727-number-of-senior-citizens](https://github.com/manasajayasri/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3447-clear-digits](https://github.com/manasajayasri/LeetCode/tree/master/3447-clear-digits) |
 ## Linked List
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manasajayasri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/manasajayasri/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Matrix
 |  |
 | ------- |
