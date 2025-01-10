@@ -23,6 +23,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/manasajayasri/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/manasajayasri/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2727-number-of-senior-citizens](https://github.com/manasajayasri/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manasajayasri/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manasajayasri/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
@@ -75,6 +76,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/manasajayasri/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2727-number-of-senior-citizens](https://github.com/manasajayasri/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manasajayasri/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/manasajayasri/LeetCode/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manasajayasri/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manasajayasri/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manasajayasri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/manasajayasri/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manasajayasri/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -176,4 +180,12 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/manasajayasri/LeetCode/tree/master/0605-can-place-flowers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manasajayasri/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/manasajayasri/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
