@@ -13,6 +13,7 @@
 | [0605-can-place-flowers](https://github.com/manasajayasri/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/manasajayasri/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manasajayasri/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0952-word-subsets](https://github.com/manasajayasri/LeetCode/tree/master/0952-word-subsets) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/manasajayasri/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/manasajayasri/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -41,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasajayasri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/manasajayasri/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manasajayasri/LeetCode/tree/master/0013-roman-to-integer) |
+| [0952-word-subsets](https://github.com/manasajayasri/LeetCode/tree/master/0952-word-subsets) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manasajayasri/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/manasajayasri/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Math
@@ -69,6 +71,7 @@
 | [0020-valid-parentheses](https://github.com/manasajayasri/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manasajayasri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manasajayasri/LeetCode/tree/master/0058-length-of-last-word) |
+| [0952-word-subsets](https://github.com/manasajayasri/LeetCode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manasajayasri/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/manasajayasri/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/manasajayasri/LeetCode/tree/master/1894-merge-strings-alternately) |
