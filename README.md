@@ -42,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasajayasri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/manasajayasri/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manasajayasri/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/manasajayasri/LeetCode/tree/master/0202-happy-number) |
 | [0952-word-subsets](https://github.com/manasajayasri/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/manasajayasri/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manasajayasri/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -56,6 +57,7 @@
 | [0029-divide-two-integers](https://github.com/manasajayasri/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manasajayasri/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/manasajayasri/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/manasajayasri/LeetCode/tree/master/0258-add-digits) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manasajayasri/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manasajayasri/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manasajayasri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/manasajayasri/LeetCode/tree/master/0202-happy-number) |
 | [1894-merge-strings-alternately](https://github.com/manasajayasri/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
