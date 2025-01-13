@@ -36,6 +36,7 @@
 | [2058-concatenation-of-array](https://github.com/manasajayasri/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3447-clear-digits](https://github.com/manasajayasri/LeetCode/tree/master/3447-clear-digits) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/manasajayasri/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/manasajayasri/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manasajayasri/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/manasajayasri/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String
 |  |
 | ------- |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/manasajayasri/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/manasajayasri/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
