@@ -64,6 +64,7 @@
 | [0258-add-digits](https://github.com/manasajayasri/LeetCode/tree/master/0258-add-digits) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manasajayasri/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/manasajayasri/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manasajayasri/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/manasajayasri/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String
@@ -206,4 +207,8 @@
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/manasajayasri/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/manasajayasri/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
