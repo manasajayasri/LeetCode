@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/manasajayasri/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/manasajayasri/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/manasajayasri/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/manasajayasri/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -58,6 +59,7 @@
 | [0029-divide-two-integers](https://github.com/manasajayasri/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/manasajayasri/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/manasajayasri/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/manasajayasri/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/manasajayasri/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
@@ -78,6 +80,7 @@
 | [0020-valid-parentheses](https://github.com/manasajayasri/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manasajayasri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manasajayasri/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/manasajayasri/LeetCode/tree/master/0067-add-binary) |
 | [0952-word-subsets](https://github.com/manasajayasri/LeetCode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manasajayasri/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/manasajayasri/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -181,6 +184,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/manasajayasri/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/manasajayasri/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/manasajayasri/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
 | [1839-decode-xored-array](https://github.com/manasajayasri/LeetCode/tree/master/1839-decode-xored-array) |
