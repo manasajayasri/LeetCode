@@ -155,21 +155,25 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/manasajayasri/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/manasajayasri/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/manasajayasri/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/manasajayasri/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/manasajayasri/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/manasajayasri/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/manasajayasri/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/manasajayasri/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/manasajayasri/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/manasajayasri/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/manasajayasri/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/manasajayasri/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Prefix Sum
