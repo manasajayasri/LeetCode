@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manasajayasri/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/manasajayasri/LeetCode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/manasajayasri/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manasajayasri/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manasajayasri/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/manasajayasri/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manasajayasri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/manasajayasri/LeetCode/tree/master/0202-happy-number) |
 | [1894-merge-strings-alternately](https://github.com/manasajayasri/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -185,6 +187,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manasajayasri/LeetCode/tree/master/0015-3sum) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manasajayasri/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Bit Manipulation
 |  |
