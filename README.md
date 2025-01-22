@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/manasajayasri/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manasajayasri/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/manasajayasri/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/manasajayasri/LeetCode/tree/master/0169-majority-element) |
 | [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/manasajayasri/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/manasajayasri/LeetCode/tree/master/0724-find-pivot-index) |
@@ -47,6 +48,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasajayasri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/manasajayasri/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manasajayasri/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/manasajayasri/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manasajayasri/LeetCode/tree/master/0202-happy-number) |
 | [0952-word-subsets](https://github.com/manasajayasri/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/manasajayasri/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/manasajayasri/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +191,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manasajayasri/LeetCode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/manasajayasri/LeetCode/tree/master/0169-majority-element) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manasajayasri/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Bit Manipulation
 |  |
@@ -201,6 +205,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manasajayasri/LeetCode/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/manasajayasri/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manasajayasri/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Number Theory
