@@ -43,6 +43,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manasajayasri/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3447-clear-digits](https://github.com/manasajayasri/LeetCode/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/manasajayasri/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3625-stone-removal-game](https://github.com/manasajayasri/LeetCode/tree/master/3625-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/manasajayasri/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manasajayasri/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/manasajayasri/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3625-stone-removal-game](https://github.com/manasajayasri/LeetCode/tree/master/3625-stone-removal-game) |
 ## String
 |  |
 | ------- |
