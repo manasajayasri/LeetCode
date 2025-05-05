@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manasajayasri/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/manasajayasri/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manasajayasri/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/manasajayasri/LeetCode/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/manasajayasri/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/manasajayasri/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/manasajayasri/LeetCode/tree/master/0645-set-mismatch) |
@@ -55,6 +56,7 @@
 | [0141-linked-list-cycle](https://github.com/manasajayasri/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/manasajayasri/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manasajayasri/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/manasajayasri/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/manasajayasri/LeetCode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/manasajayasri/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/manasajayasri/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -75,6 +77,7 @@
 | [0202-happy-number](https://github.com/manasajayasri/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/manasajayasri/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/manasajayasri/LeetCode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manasajayasri/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/manasajayasri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/manasajayasri/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -132,6 +135,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manasajayasri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/manasajayasri/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/manasajayasri/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -203,6 +207,7 @@
 | ------- |
 | [0015-3sum](https://github.com/manasajayasri/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/manasajayasri/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/manasajayasri/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/manasajayasri/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manasajayasri/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Bit Manipulation
@@ -212,6 +217,7 @@
 | [0067-add-binary](https://github.com/manasajayasri/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/manasajayasri/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manasajayasri/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/manasajayasri/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/manasajayasri/LeetCode/tree/master/0645-set-mismatch) |
 | [1839-decode-xored-array](https://github.com/manasajayasri/LeetCode/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/manasajayasri/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
